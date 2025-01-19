@@ -1,5 +1,7 @@
 Lumin Library
 
+![banner](https://github.com/LuminSource/lumin/blob/main/images/luminback.jpeg?raw=true)
+
 Lumin is an open-source library designed to enhance other projects, particularly those involving AI bots, blockchain interaction, and data analysis. It provides various utility functions and integrations to help developers build advanced features like blockchain transactions, AI-based data analysis, and more.
 
 Features
